@@ -43,6 +43,7 @@ Our project at the hackathon demonstrated the importance of thorough data proces
 
 Code: [GitHub](https://github.com/Halva773/alfa-hack).
 
+
 ## Study
 ### Books
 1. Hands-On Machine Learning with Scikit-Learn and TensorFlow. Aurélien Géron: Data preparation (Data cleaning, processing and visualization methods). Model Training (LR, XGBoost/LGBM/Cut Boost). Neural networks using: TensorFlow. Model evaluation (Methods for evaluating model performance and choosing the best one).
@@ -55,3 +56,6 @@ Code: [GitHub](https://github.com/Halva773/alfa-hack).
 | SQL simulator                              | https://stepik.org/course/63054/syllabus  |
 | OOP: Object-oriented programming in Python | https://stepik.org/course/114354/syllabus |
 | Python: Basics and Application             | https://stepik.org/course/512/syllabus    |
+
+## Codewars
+![Codewars](https://www.codewars.com/users/Qizo/badges/large)
