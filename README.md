@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Data-Scientist
+Data-Scientist
 
 [![Linkedin: selin_artemq](https://img.shields.io/badge/-selin_artemq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selin_artemq/)](https://www.linkedin.com/in/selin-artemq/)
 [![Telegram: qizoo](https://img.shields.io/badge/-qizoo-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/qizoo)](https://t.me/qizoo)
