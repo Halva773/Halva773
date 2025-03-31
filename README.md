@@ -1,61 +1,74 @@
 ## Hi there 👋
-Data-Scientist
 
-[![Linkedin: selin_artemq](https://img.shields.io/badge/-selin_artemq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/selin_artemq/)](https://www.linkedin.com/in/selin-artemq/)
-[![Telegram: qizoo](https://img.shields.io/badge/-qizoo-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/qizoo)](https://t.me/qizoo)
-[![GitHub Halva773](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Halva773)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## Skills
-- Python: pandas, numpy, sklearn, seaborn, etc.
-- ML: LR, XGBoost/LGBM/CatBoost, Unsupervised learning, Evaluation Metrics (MAE, MSE, RMSE, MSLE, MAPE)
-- SQL: MySQL, SQLite, SQL+PYTHON
-- Math: mathstat, probability theory, Linear algebra
-- Other: Docker, git, A/B TESTS
+<div id="badges" align="center">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/selin-artemq/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:artemq.selin@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/qizoo">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
-## Projects
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Halva773&style=flat-square&color=blue"  alt=""/>
+</div>
 
-### Project: Sports Game Winner Prediction Model (In progress)
-- Description: Developed a model to predict the winner of sports games using data from game records and statistics from external websites.
-- Data Collection: Utilized libraries for automated data collection from both game records and third-party websites, ensuring the acquisition of relevant and diverse information for analysis.
-- Modeling: Tested multiple models, including linear regression and decision trees, applying cross-validation to evaluate their effectiveness. This process allowed for the selection of the most suitable model for the task and improved prediction quality.
-- Future Development: Plan to expand the project by adding new models to predict additional parameters, such as the number of rounds or individual player statistics. Also considering the application of this approach to other sports.
+### :man_technologist: About Me :
 
-Code: [GitHub](https://github.com/Halva773/CS2PredictionsModel).
+- :telescope: Я Data Scientist / ML-инженер, специализируюсь на построении прогнозирующих моделей и анализе сложных данных.
+
+- :seedling: Увлечен изучением новых методов машинного обучения и вношу свой вклад в проекты ML с открытым исходным кодом.
+
+- :zap: В свободное время я участвую в ML-хакатонах, изучаю задачи Kaggle и погружаюсь в последние исследования в области искусственного интеллекта.
+
+- :mailbox:Для связи: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qizoo)
 
 ---
-### Project: Apple Detection in Images (In Progress)
-- Description: Developed a model to detect apples in images, focusing on accurately identifying and classifying the fruit within various contexts.
-- Approach: Utilized a combination of existing models that demonstrated reasonable performance, but were not fully tailored to our specific task. Additionally, I trained a custom model specifically designed to enhance detection accuracy for apples.
 
-\* Confidentiality: The section detailing the training of the proprietary model is not disclosed in the project documentation, as it is considered a commercial asset.
-
-Code: [GitHub](https://github.com/Halva773/Apple-detecionCV).
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-8FB339?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF9F00?style=for-the-badge&logo=xgboost&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-04A7FF?style=for-the-badge&logo=catboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-FFBD2E?style=for-the-badge&logo=lightgbm&logoColor=white)
+![NN](https://img.shields.io/badge/NN-FF5733?style=for-the-badge&logo=deeplearning.ai&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-8A2BE2?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-8A2BE2?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-19475E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-4285F4?style=for-the-badge&logo=mlflow&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![Unittest](https://img.shields.io/badge/Unittest-464646?style=for-the-badge)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-### Hackathon: A project to predict the behavior of banking users (Complete)
-Project Overview:  
-The goal of our project was to process data from bank users and create a classification model capable of predicting user behavior over the next 12 months. We aimed to identify key factors influencing customer behavior to improve their service and enhance the effectiveness of marketing strategies.
-- We performed data cleansing, eliminating missing values and duplicates.
-- We excluded insignificant and correlated data based on correlation analysis.
-- We tested several machine learning models.
-- We selected logistic regression as the best model for predicting user behavior.
-Our project at the hackathon demonstrated the importance of thorough data processing and the selection of an appropriate model for addressing user behavior prediction tasks. We believe that the results of our work can be beneficial for banks in enhancing customer experience and improving the efficiency of their business processes.
 
-Code: [GitHub](https://github.com/Halva773/alfa-hack).
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Halva773&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halva773&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Study
-### Books
-1. Hands-On Machine Learning with Scikit-Learn and TensorFlow. Aurélien Géron: Data preparation (Data cleaning, processing and visualization methods). Model Training (LR, XGBoost/LGBM/Cut Boost). Neural networks using: TensorFlow. Model evaluation (Methods for evaluating model performance and choosing the best one).
-2. The basics of machine learning in Python. M.V. Koroteev: Mathematical justification of the basic models in theory and in practice, various metrics for evaluating models. Teaching without a teacher. Methods for improving the effectiveness of models
-### Courses
-| Course                                     | Link                                      |
-|--------------------------------------------|-------------------------------------------|
-| Basics of statistics (Part 1)              | https://stepik.org/course/76/syllabus     |
-| Basics of statistics (Part 2)              | https://stepik.org/course/524/syllabus    |
-| SQL simulator                              | https://stepik.org/course/63054/syllabus  |
-| OOP: Object-oriented programming in Python | https://stepik.org/course/114354/syllabus |
-| Python: Basics and Application             | https://stepik.org/course/512/syllabus    |
-
-## Codewars
-![Codewars](https://www.codewars.com/users/Qizo/badges/large)
