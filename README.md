@@ -28,7 +28,7 @@
 
 - :zap: В свободное время я участвую в ML-хакатонах, изучаю задачи Kaggle и погружаюсь в последние исследования в области искусственного интеллекта.
 
-- :mailbox:Для связи: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qizoo)
+- :mailbox:Для связи: [![Telegram Badge](https://img.shields.io/badge/qizoo-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/qizoo)
 
 ---
 
