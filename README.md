@@ -1,8 +1,8 @@
 ## Hi there 👋  
 ### 👨‍💻 About Me
 
-I'm Data Scientist with **2+ years of commercial experience** in building and deploying ML solutions in production.  
-Worked in **financial sector (Sber)** and **applied research**, covering the full ML lifecycle — from business requirements to production support.
+I'm Data Scientist with commercial experience in building and deploying ML solutions in production.  
+Worked in **financial sector** and **applied research**, covering the full ML lifecycle — from business requirements to production support.
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/selinartemq/">
